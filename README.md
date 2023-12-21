@@ -9,7 +9,7 @@ Hello, I'm Lucas Emanuel, student at Faculdade das Américas in Brasil and Softw
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-emanuel-oliveira-de-carvalho/)  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](instagran.com/lucasemanuel1992) [![Hotmail](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white
 )](lucas.emanuel.carvalho@outlook.com)
 
-![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasemanuel922&show_icons=true&theme=tokyonight) 
+![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasemanuel92&show_icons=true&theme=tokyonight) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasemanuel92)
 
 ## Tecnologias / Technologies  
