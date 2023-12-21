@@ -12,7 +12,7 @@ Hello, I'm Lucas Emanuel, student at Faculdade das Américas in Brasil and Softw
 ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasemanuel92&show_icons=true&theme=tokyonight) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasemanuel92)
 
-## Tecnologias / Technologies
+## Tecnologias / Technologies  
 
 <div style="display: inline_block"><br>
 <img align="center" alt="Python" src=https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white>
