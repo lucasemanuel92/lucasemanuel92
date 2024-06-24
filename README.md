@@ -9,7 +9,9 @@ Hello, I'm Lucas Emanuel, studying Analysis and Systems Development at Faculdade
 <a href="lucas.emanuel.carvalho@outlook.com">
   <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
 </a>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-emanuel-oliveira-de-carvalho/)  [![![Hotmail](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](lucas.emanuel.carvalho@outlook.com)
+<a href="https://www.linkedin.com/in/lucas-emanuel-oliveira-de-carvalho/" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasemanuel92&show_icons=true&theme=tokyonight) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasemanuel92)
