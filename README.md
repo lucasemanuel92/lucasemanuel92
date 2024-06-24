@@ -6,7 +6,7 @@ Eu sou Lucas Carvalho, estudante de Análise e Desenvolvimento de Sistemas na Fa
 ### En:
 Hello, I'm Lucas Emanuel, studying Analysis and Systems Development at Faculdade das Américas and Software Engineering at Wyden in Brasil and Software Development at Brigham Young University - Idaho in the USA. Those repositories include college studies and personal codes. If you need to contact me, feel free to reach me through social media or email.
 
-<a href="lucas.emanuel.carvalho@outlook.com">
+<a href="maito:lucas.emanuel.carvalho@outlook.com">
   <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/lucas-emanuel-oliveira-de-carvalho/" />
