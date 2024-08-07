@@ -32,13 +32,13 @@ Hello, I'm Lucas Emanuel, studying Analysis and Systems Development at Faculdade
    - BYU-CES111: Curso intermediário em Python / Intermediate level in Python (IN PROGRESS)
    - BYU-CSE210: Orientação a Objetos em C# / Object Orientation in C# (IN PROGRESS)
 2. UDEMY
-   - Web-Moderno-Udemy: Do Básico ao Avançado em Javascript, angular e outras tecnologias / From Start to Pro in Javascript, angular and other technologies
-   - UdemyJava: Do Básico ao Avançado em Java / From Start to Pro in Java
+   - Web-Moderno-Udemy: Do Básico ao Avançado em Javascript, angular e outras tecnologias / From Start to Pro in Javascript, angular and other technologies (IN PROGRESS)
+   - UdemyJava: Do Básico ao Avançado em Java / From Start to Pro in Java (IN PROGRESS)
 3. ALURA
    - JavaScript - Explorando a Linguagem: Básico do JavaScript / JavaScript basics concepts.
-   - JavaScript - Programação Orientada a Objetos: Básico da Orientação a Objetos / Basics of Objects Orientation
+   - JavaScript - Programação Orientada a Objetos: Básico da Orientação a Objetos / Basics of Objects Orientation (IN PROGRESS)
    - Do Zero: Conceitos básícos da programação com CSS, HTML e JavaScript / Basics concepts of codings using CSS, HTML and JavaScript
-   - Java - Primeira Aplicação: Básico do Java / Java basics concepts
+   - Java - Primeira Aplicação: Básico do Java / Java basics concepts (IN PROGRESS)
   4. PESSOAL / PERSONAL
-     - Python Projects: Projetos feitos com aulas do Youtube / Youtube python projects
-     - Junior Projects: Projetos em multiplas linguas (PDF com a descrição dos projetos no repositório) / Projects in multiple languagens (PDF describing in the repository)
+     - Python Projects: Projetos feitos com aulas do Youtube / Youtube python projects (IN PROGRESS)
+     - Junior Projects: Projetos em multiplas linguas (PDF com a descrição dos projetos no repositório) / Projects in multiple languagens (PDF describing in the repository) (IN PROGRESS)
