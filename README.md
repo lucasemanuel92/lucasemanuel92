@@ -42,3 +42,8 @@ Hello, I'm Lucas Emanuel, studying Analysis and Systems Development at Faculdade
   4. PESSOAL / PERSONAL
      - Python Projects: Projetos feitos com aulas do Youtube / Youtube python projects (IN PROGRESS)
      - Junior Projects: Projetos em multiplas linguas (PDF com a descrição dos projetos no repositório) / Projects in multiple languagens (PDF describing in the repository) (IN PROGRESS)
+       - Basic CRUD Application
+       - User Authetication and Authorization
+       - RESTful API for Task Management
+       - E-commerce Plataform Backend
+       - Real-time Chat Application
