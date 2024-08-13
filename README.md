@@ -37,8 +37,8 @@ Hello, I'm Lucas Emanuel, studying Analysis and Systems Development at Faculdade
 3. ALURA
    - JavaScript - Explorando a Linguagem: Básico do JavaScript / JavaScript basics concepts. (COMPLETE)
    - JavaScript - Programação Orientada a Objetos: Básico da Orientação a Objetos / Basics of Objects Orientation (IN PROGRESS)
-   - Do Zero: Conceitos básícos da programação com CSS, HTML e JavaScript / Basics concepts of codings using CSS, HTML and JavaScript
-   - Java - Primeira Aplicação: Básico do Java / Java basics concepts (IN PROGRESS)
+   - Do Zero: Conceitos básícos da programação com CSS, HTML e JavaScript / Basics concepts of codings using CSS, HTML and JavaScript (COMPLETE)
+   - Java - Primeira Aplicação: Básico do Java / Java basics concepts (COMPLETE)
   4. PESSOAL / PERSONAL
      - Python Projects: Projetos feitos com aulas do Youtube / Youtube python projects (IN PROGRESS)
      - Junior Projects: Projetos em multiplas linguas (PDF com a descrição dos projetos no repositório) / Projects in multiple languagens (PDF describing in the repository) (IN PROGRESS)
