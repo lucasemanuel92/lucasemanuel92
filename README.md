@@ -35,11 +35,15 @@ Hello, I'm Lucas Emanuel, studying Analysis and Systems Development at Faculdade
    - Web-Moderno-Udemy: Do Básico ao Avançado em Javascript, angular e outras tecnologias / From Start to Pro in Javascript, angular and other technologies (IN PROGRESS)
    - UdemyJava: Do Básico ao Avançado em Java / From Start to Pro in Java (IN PROGRESS)
 3. ALURA
+   - Do Zero: Conceitos básícos da programação com CSS, HTML e JavaScript / Basics concepts of codings using CSS, HTML and JavaScript (IN PROGRESS)
+     - Mergulhe em Programação com JavaScript / Start coding using JavaScript (COMPLETE)
+     - Lógica de Programação: Funções e Listas / Programming Logic: Using Functions and Lists (COMPLETE)
+     - Lógica de Programação: Praticando com Desafios (IN PROGRESS)
+   - Java: Orientação a Objetos (IN PROGRESS)
+       - Java - Primeira Aplicação: Básico do Java / Java basics concepts (COMPLETE)
    - JavaScript - Explorando a Linguagem: Básico do JavaScript / JavaScript basics concepts. (COMPLETE)
    - JavaScript - Programação Orientada a Objetos: Básico da Orientação a Objetos / Basics of Objects Orientation (IN PROGRESS)
-   - Do Zero: Conceitos básícos da programação com CSS, HTML e JavaScript / Basics concepts of codings using CSS, HTML and JavaScript (COMPLETE)
-   - Java - Primeira Aplicação: Básico do Java / Java basics concepts (COMPLETE)
-  4. PESSOAL / PERSONAL
+  5. PESSOAL / PERSONAL
      - Python Projects: Projetos feitos com aulas do Youtube / Youtube python projects (IN PROGRESS)
      - Junior Projects: Projetos em multiplas linguas (PDF com a descrição dos projetos no repositório) / Projects in multiple languagens (PDF describing in the repository) (IN PROGRESS)
        - Basic CRUD Application
