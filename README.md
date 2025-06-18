@@ -33,3 +33,8 @@ Hello, I'm Lucas Emanuel, studying Analysis and Systems Development at Faculdade
    - Web-Moderno-Udemy: Do Básico ao Avançado em Javascript, angular e outras tecnologias / From Start to Pro in Javascript, angular and other technologies (IN PROGRESS)
    - UdemyJava: Do Básico ao Avançado em Java / From Start to Pro in Java (IN PROGRESS)
 3. ALURA
+   - java-formation-alura : Formação em Java / Java Courses
+     - A Partir do Zero: Iniciante em Programção / From Zero: Starting in Coding
+       - Lógica de programação: mergulhe em programação com JavaScript / Programming Logic: dive in cooding using JavaScript (IN PROGRESS)
+       - Lógica de programação: explore funções e listas / Programming Logic: explore functions and lists
+       - Lógica de programação: praticando com exercícios / Programming Logic: practice with exercises
